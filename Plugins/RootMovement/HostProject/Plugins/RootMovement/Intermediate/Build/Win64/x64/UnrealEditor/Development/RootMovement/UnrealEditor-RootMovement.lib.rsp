@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RootMovement.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
+/OUT:"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.lib"
