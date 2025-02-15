@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeRootMovement_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x4DFF2277,
-				0x3FB6D602,
+				0xC29BB84B,
+				0xF27EDB90,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_RootMovement.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_RootMovement.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_RootMovement(Z_Construct_UPackage__Script_RootMovement, TEXT("/Script/RootMovement"), Z_Registration_Info_UPackage__Script_RootMovement, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4DFF2277, 0x3FB6D602));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_RootMovement(Z_Construct_UPackage__Script_RootMovement, TEXT("/Script/RootMovement"), Z_Registration_Info_UPackage__Script_RootMovement, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xC29BB84B, 0xF27EDB90));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

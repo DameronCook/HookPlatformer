@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealgame\\inc\\rootmovement\\uht\\rootmovement.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\intermediate\\build\\win64\\x64\\thirdpersontutorial\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rootmovement\\definitions.rootmovement.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

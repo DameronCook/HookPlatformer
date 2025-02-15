@@ -11,6 +11,7 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
+/d2:-ExtendedWarningInfo
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -34,9 +35,12 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
-"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
+/NOIMPLIB
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\AsyncRootMovement.gen.cpp.obj"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\RootMovement.init.gen.cpp.obj"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -67,7 +71,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.dll"
-/IMPLIB:"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.sup.lib"
-/PDB:"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.pdb"
+/OUT:"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.dll"
+/PDB:"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.pdb"
 /ignore:4078

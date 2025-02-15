@@ -1,11 +1,13 @@
-"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp"
-/FI"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Definitions.RootMovement.h"
-/Yu"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
-/sourceDependencies "C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.dep.json"
-@"C:\Users\Dameron Cook\Documents\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\RootMovement.Shared.rsp"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp"
+/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Definitions.RootMovement.h"
+/Yu"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+/experimental:log "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.sarif"
+/sourceDependencies "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.dep.json"
+@"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\RootMovement.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi
@@ -24,6 +26,7 @@
 /D_WINDLL
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
 /Ob2
+/d2ExtendedWarningInfo
 /Ox
 /Ot
 /GF

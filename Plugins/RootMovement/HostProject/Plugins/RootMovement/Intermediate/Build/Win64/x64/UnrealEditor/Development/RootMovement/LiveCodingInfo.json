@@ -2,10 +2,11 @@
 	"RemapUnityFiles": 
 	{
 		"Module.RootMovement.cpp.obj": [
-			"AsyncRootMovement.gen.cpp.obj",
-			"RootMovement.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
 			"AsyncRootMovement.cpp.obj",
-			"RootMovement.cpp.obj"
+			"RootMovement.cpp.obj",
+			"AsyncRootMovement.gen.cpp.obj",
+			"RootMovement.init.gen.cpp.obj"
 		]
 	}
 }
