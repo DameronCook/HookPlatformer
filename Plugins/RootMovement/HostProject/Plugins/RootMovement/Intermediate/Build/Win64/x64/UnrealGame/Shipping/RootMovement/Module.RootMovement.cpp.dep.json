@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rootmovement\\module.rootmovement.cpp",
+        "Source": "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rootmovement\\module.rootmovement.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\intermediate\\build\\win64\\x64\\thirdpersontutorial\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\intermediate\\build\\win64\\x64\\thirdpersontutorial\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rootmovement\\definitions.rootmovement.h",
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\asyncrootmovement.cpp",
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\asyncrootmovement.h",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\rootmovement\\definitions.rootmovement.h",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealgame\\inc\\rootmovement\\uht\\asyncrootmovement.gen.cpp",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\asyncrootmovement.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementcomponent.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\rootmotionsource.generated.h",
@@ -39,7 +39,9 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealgame\\inc\\rootmovement\\uht\\asyncrootmovement.generated.h",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealgame\\inc\\rootmovement\\uht\\asyncrootmovement.generated.h",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealgame\\inc\\rootmovement\\uht\\rootmovement.init.gen.cpp",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\asyncrootmovement.cpp",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\engine.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\monolithicheaderboilerplate.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\core.h",
@@ -674,8 +676,8 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slate\\public\\widgets\\colors\\scolorblock.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sspinbox.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sslider.h",
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\rootmovement.cpp",
-            "c:\\users\\damer\\documents\\github\\unreal projects\\hook platformer\\hookplatformer 5.5\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\rootmovement.h"
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\rootmovement.cpp",
+            "c:\\users\\damer\\documents\\github\\unreal projects\\openworld-wallrun\\plugins\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\rootmovement.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

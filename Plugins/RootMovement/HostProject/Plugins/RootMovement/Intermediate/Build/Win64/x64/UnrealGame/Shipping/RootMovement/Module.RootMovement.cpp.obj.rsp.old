@@ -1,12 +1,12 @@
-"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp"
-/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Definitions.RootMovement.h"
-/Yu"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.obj"
-/experimental:log "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.sarif"
-/sourceDependencies "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.dep.json"
-@"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.4\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\RootMovement.Shared.rsp"
+"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp"
+/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/FI"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Definitions.RootMovement.h"
+/Yu"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Intermediate\Build\Win64\x64\ThirdPersonTutorial\Shipping\Engine\SharedPCH.Engine.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.obj"
+/experimental:log "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.sarif"
+/sourceDependencies "C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\Module.RootMovement.cpp.dep.json"
+@"C:\Users\damer\Documents\GitHub\Unreal Projects\Hook Platformer\HookPlatformer 5.5\Plugins\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealGame\Shipping\RootMovement\RootMovement.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
