@@ -42,6 +42,10 @@
 		{
 			"Name": "GLTFExporter",
 			"Enabled": false
+		},
+		{
+			"Name": "WaveformEditor",
+			"Enabled": true
 		}
 	]
 }
